@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "node_modules/.bin/mocha -w"
+    "test": "node_modules/.bin/mocha -w --timeout 5000"
   },
   "author": "Vinicius Dacal",
   "license": "MIT",
